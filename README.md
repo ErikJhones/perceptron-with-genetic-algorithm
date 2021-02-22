@@ -15,8 +15,10 @@ CHANCE_MUT = .20     # Chance de mutação de um peso qualquer
 CHANCE_CO = .25      # Chance de crossing over de um peso qualquer
 NUM_INDIVIDUOS = 50  # Tamanho da população
 NUM_MELHORES = 3     # Número de indivíduos que são mantidos de uma geração para a próxima
+num_geracoes = 1000  # Quantidade de gerações feitas.
 
-População= 
+## resultados: 
+
 
 # Caixeiro viajante com algortimo genético (AG)
 Problema modelado com 7 cidade. Onde uma matriz 7x7 
